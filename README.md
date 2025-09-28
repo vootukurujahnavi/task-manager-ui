@@ -23,7 +23,7 @@ This project uses **Ant Design** for UI components and communicates with a backe
 ![Task Creation](screenshorts/task3-creation.png)
 
 ### Task Execution
-![Task Execution](screenshorts/task3-execution.png)
+![Task Execution](screenshorts/tas3-execution.png)
 
 ---
 
